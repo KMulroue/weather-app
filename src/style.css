@@ -83,8 +83,8 @@ main {
 
 .weather-forecast {
   margin-top: 20px;
-  text-align: center;
   color: #000;
+  text-align: center;
 }
 
 .weather-forecast-date {
@@ -98,6 +98,8 @@ main {
 
 .weather-forecast-temperatures {
   font-size: 13px;
+  display: flex;
+  justify-content: center;
 }
 
 .weather-app-unit {
